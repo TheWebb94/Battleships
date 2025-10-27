@@ -1,0 +1,22 @@
+﻿  Battleships.cpp
+  DrawUI.cpp
+  Game.cpp
+C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\Game.cpp(105,216): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\Game.cpp(142,9): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\Game.cpp(245,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\Game.cpp(260,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\Game.cpp(304,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Grid.cpp
+  Cell.cpp
+  Ship.cpp
+  UserInput.cpp
+  Settings.cpp
+C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\Settings.cpp(14,30): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\Settings.cpp(14,37): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\Settings.cpp(18,47): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\Settings.cpp(18,59): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
+C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\Settings.cpp(50,1): warning C4715: 'Settings::GetDifficultyAsString': not all control paths return a value
+C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\Settings.cpp(65,1): warning C4715: 'Settings::GetDifficultyColour': not all control paths return a value
+C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\Grid.cpp(270,1): warning C4715: 'Grid::HasAttackedHereBefore': not all control paths return a value
+  Battleships.vcxproj -> C:\Users\Alex\OneDrive\Documents\Coding\Battleships\submission\Battleships\Battleships\x64\Debug\Battleships.exe
